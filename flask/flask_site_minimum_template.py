@@ -2,7 +2,6 @@ from flask import Flask, request
 app = Flask(__name__)
 
 html_page = """
-
 <html>
     <head>
     </head>
